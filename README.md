@@ -1,1 +1,1 @@
-# lectio-signum
+# Lectio Signum
