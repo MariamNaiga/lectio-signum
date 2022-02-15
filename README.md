@@ -4,19 +4,19 @@ Lectio Signum, which includes both hardware and software components, aims to pro
 
 ## Contributors
 
-Andre Farina (Team Lead)
-Fahad Algahtani (Hardware Team Lead) 
-Sukinah Alnumer (Hardware Team)
-Shamila Mariam Naiga (Software Team Lead)
-Javier Botella (Software Team)
+- Andre Farina (Team Lead)
+- Fahad Algahtani (Hardware Team Lead) 
+- Sukinah Alnumer (Hardware Team)
+- Shamila Mariam Naiga (Software Team Lead)
+- Javier Botella (Software Team)
 
 ## Faculty Advisors
-Dr. Venkat Keshav Chivukula
-Dr. Debasis Mitra
+- Dr. Venkat Keshav Chivukula
+- Dr. Debasis Mitra
 
 ## Affiliation
 Florida Institute of Technology
 
 ## Special Thanks
-Dr. Ryan White
-Dr. Philip Chan
+- Dr. Ryan White
+- Dr. Philip Chan
